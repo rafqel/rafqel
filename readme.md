@@ -6,10 +6,6 @@
 - 💡 Interests: Fullstack Development
 
 #
-<div align="start">
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=rafqel&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&card_width=320"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafqel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false&include_public_commits=true" height="150" alt="languages graph"  />
-</div>
 
 
 ## &nbsp;Programming Languages
